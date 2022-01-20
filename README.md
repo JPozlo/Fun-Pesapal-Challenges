@@ -7,7 +7,7 @@ with one file containing the words in a sorted order and the other with their oc
 
 2. ### [Fermat's Last Theorem](https://github.com/JPozlo/Fun-Pesapal-Problems/tree/master/Fermat's%20Last%20Theorem) also known as **Fermat near-misses** <br/>
 This app verifies whether Fermat's theorem can be debunked or if it actually is accurate. The theorem states that
-no three distinct positive integers a, b, and c can satisfy the equation(a^n + b^n = c^n) if n is an integer greater than two (n > 2).
+no three distinct positive integers a, b, and c can satisfy the equation(a^n + b^n = c^n) if n is an integer greater than two (n > 2). <br/>
 **How it works:** The app takes in the 4 variables as parameters and tries to verify if indeed the theorem is correct.
 
 3. ### [Markdown Converter](https://github.com/JPozlo/Fun-Pesapal-Problems/tree/master/Markdown%20Converter) <br/>
